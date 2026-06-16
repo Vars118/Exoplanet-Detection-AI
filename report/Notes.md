@@ -1,10 +1,6 @@
 ---
 
-## Report/
-
-Create:
-
-`docs/notes.md`
+## Report
 
 Contents:
 
