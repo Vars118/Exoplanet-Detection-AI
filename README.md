@@ -1,4 +1,31 @@
-# Exoplanet-Detection-AI
+# AI-enabled Exoplanet Detection using TESS Data
+
+## Objective
+
+Detect exoplanet transit signals from noisy TESS light curves.
+
+## Data Source
+
+TESS Mission
+
+## Progress
+
+- [x] Download light curve
+- [x] Visualize flux
+- [x] Find deepest dip
+- [x] Estimate transit depth
+- [ ] Detect periodicity
+- [ ] Train classifier
+- [ ] Estimate transit parameters
+
+## Tools
+
+- Python
+- Lightkurve
+- NumPy
+- Matplotlib
+- SciPy
+- # Exoplanet-Detection-AI_detailed
 AI-Enabled Detection of Exoplanets from Noisy Astronomical Light Curves
 
 Overview
